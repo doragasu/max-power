@@ -3,7 +3,7 @@
 This is just a dumb PCB that I designed to end with the big mess of wall adapters I have under my TV, powering two RaspberryPi boards, several hard disks, routers, a USB hub, an HDMI to optical splitter, and maybe something more I'm missing right now. The board provides the following outputs:
 
 * 2x5V standby (USB-A, always ON)
-* 6x5V (USB-A)
+* 4x5V (USB-A)
 * 6x12V (Terminal blocks)
 * 4x3.3V (Terminal blocks)
 
