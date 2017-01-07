@@ -19,7 +19,7 @@ This way the PS can be switched ON/OFF either by pressing the power button, or b
 
 ## Licenses
 
-Hardware designs under this repository are licensed under the CERN OHL 1.2 license.
+Footprints and 3D modules under `fp` directory, have been obtained from http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm, and are under GPLv3 license. All other hardware CAD files in this repository are licensed under the CERN OHL 1.2 license.
 
-Software sources under this repository are licensed under the GPL v3+ license.
+Software sources under this repository are licensed under the GPLv3+ license.
 
